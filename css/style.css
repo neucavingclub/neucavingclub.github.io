@@ -297,7 +297,7 @@ button:focus {
   z-index: 1;
   min-height: 900px;
   display: flex;
-  background: linear-gradient(rgba(3, 1, 10, 0.5), rgba(3, 1, 10, 0.5)), url(../img/banner/b1.jpeg) no-repeat scroll center center;
+  background: linear-gradient(rgba(3, 1, 10, 0.5), rgba(3, 1, 10, 0.5)), url(../img/banner/banner.jpeg) no-repeat scroll center center;
   background-size: cover; }
   .home_banner_area .banner_inner {
     width: 100%;
@@ -347,7 +347,7 @@ button:focus {
     background: transparent;
     z-index: 1; }
     .banner_area .banner_inner .overlay {
-      background: linear-gradient(0deg, rgba(6, 13, 1, 0.6), rgba(6, 13, 1, 0.6)), url(../img/banner/b2.jpeg) no-repeat scroll center center;
+      background: linear-gradient(0deg, rgba(6, 13, 1, 0.6), rgba(6, 13, 1, 0.6)), url(../img/banner/home-banner.jpeg) no-repeat scroll center center;
       background-size: cover;
       position: absolute;
       left: 0;
